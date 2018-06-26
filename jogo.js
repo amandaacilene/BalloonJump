@@ -94,7 +94,7 @@ function draw() {
 		text ("Quando detectada a colisão", x/3.3, y/3.2);
 		text ("uma vida será retirada.", x/3, y/2.8);
 		textSize (23);
-		text ("PRECIONE ⬇️ PARA RETORNAR", x/5, y/1.2);
+		text ("PRESSIONE ⬇️ PARA RETORNAR", x/5, y/1.2);
 		textSize (40);
 		text ("BOA SORTE!", x/3.4, y/1.01);
 		
